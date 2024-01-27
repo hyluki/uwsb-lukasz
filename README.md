@@ -1,5 +1,8 @@
 # uwsb-lukasz
 
 Hello World!
-ala nie ma kota
+
 to jest plick read me
+
+
+komit zmodyfikowany przez kogo=s innego
