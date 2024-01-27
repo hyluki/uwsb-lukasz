@@ -1,3 +1,9 @@
+wszystko usuwam i nara
+
+wykomentować to ponizej
+
+
+
 plik tekstowy no2<- to kasujemy i wstawiamy tu text siała baba mak
 
 
@@ -9,4 +15,5 @@ plik tekstowy no2<- to kasujemy i wstawiamy tu text siała baba mak
 
 dodanie do nowego brancza
 
-brak zmian
+brak 
+
